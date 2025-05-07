@@ -1,0 +1,8 @@
+dash
+plotly
+plotly.graph_objects
+pandas
+numpy
+shapely
+geopandas
+gunicorn
